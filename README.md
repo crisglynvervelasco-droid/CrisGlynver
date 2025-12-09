@@ -1,2 +1,21 @@
-# CrisGlynver
-Welcome to my GitHub profile! I am a committed BS Information Technology student driven by a strong passion for technology, problem-solving, and continuous growth. I love exploring programming, databases, and various tools that allow me to build practical, efficient, and impactful solutions.
+## Hi there, I'm CrisGlyver G Velasco!
+
+Welcome to my GitHub profile! I am a dedicated BS Information Technology student with a passion for technology, problem-solving, and continuous learning. I enjoy exploring programming, databases, and tools that help me create meaningful and efficient solutions.
+
+## 🎓 Education: 
+**2nd Year BS Information Technology Student**  
+_New Era University — Quezon City_
+
+
+## 📜 Certifications
+
+- **SQL and Relational Databases 101 (DB0101EN) — IBM via Cognitive Class**  
+
+- **Oracle Cloud Infrastructure (OCI) Foundations Associate**  
+
+- **Oracle Cloud Data Management Foundations Associate (Certified)**  
+
+- **OCI AI Foundations Associate (2025) — Completed**  
+  
+
+## 🛠️ Skills
