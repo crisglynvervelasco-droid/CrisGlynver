@@ -9,13 +9,12 @@ _New Era University — Quezon City_
 
 ## 📜 Certifications
 
-- **SQL and Relational Databases 101 (DB0101EN) — IBM via Cognitive Class**  
+- **OCI AI Foundations Associate (2025) — Completed**   
 
 - **Oracle Cloud Infrastructure (OCI) Foundations Associate**  
 
 - **Oracle Cloud Data Management Foundations Associate (Certified)**  
 
-- **OCI AI Foundations Associate (2025) — Completed**  
-  
+- **SQL and Relational Databases 101 (DB0101EN) — IBM via Cognitive Class**  
 
 ## 🛠️ Skills
